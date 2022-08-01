@@ -95293,6 +95293,30 @@
         "social-token"
       ]
       
+    },
+    {
+      "chainId": 101,
+      "address": "3hfpmsFvrabMcbGu1Ru7q32QJDaf844mUuWmXznsj8n7",
+      "symbol": "NH3",
+      "name": "NFT Humidity 3DL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cpatt2015/Crypto/main/humidity-icon-vector-24247591.jpeg",
+      "tags": [
+        "social-token"
+      ]
+      
+    },
+    {
+      "chainId": 101,
+      "address": "FCgYUwNW3Dts3dteLQjQWwz5E6gytJgLDVcCqYXB7u4k",
+      "symbol": "NT3",
+      "name": "NFT Temperature 3DL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/cpatt2015/Crypto/main/Temperature-icon-Graphics-7429051-1-580x386.jpeg",
+      "tags": [
+        "social-token"
+      ]
+      
     }
   ],
   "version": {
